@@ -13,3 +13,15 @@ Existance of linearity is checked by data visualization and the correlation betw
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture4.JPG)
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture5.JPG)
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture6.JPG)
+
+### Regression:
+#### Simple Linear Regression:
+Simple Linear Regression technique is used for the dependent variable 'Production' and independent variable 'Area'.
+We get the result as-
+![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture8.JPG)
+Predicted result is plotted with the test data-
+![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture7.JPG)
+### Multivariate Linear Regression:
+Multivariate Linear Regression technique is used for the dependent variable 'Production' and the independent variables 'Precipitation','Min_Temp','Cloude_Cover','Vapour_Pressure' and 'Area'.
+We get the result as-
+![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture9.JPG)
