@@ -26,3 +26,5 @@ We get the result as-
 Multivariate Linear Regression technique is used for the dependent variable 'Production' and the independent variables 'Precipitation','Min_Temp','Cloude_Cover','Vapour_Pressure' and 'Area'.
 We get the result as-
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture9.JPG)
+
+### For a single district over a time period of 10 years:
