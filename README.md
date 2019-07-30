@@ -32,3 +32,4 @@ Again Multivariate Linear Regression technique is used for the dependent variabl
 We get the result as-
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture10.JPG)
 ![](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture11.JPG)
+
